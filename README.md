@@ -1,4 +1,4 @@
-# AtividadeBancoDeDadosMYSQL01
+# IntroduçãoABancoDeDadosMYSQL01
 03 Atividades de introdução a banco de dados utilizando o MYSQL.
 
 Atividade 1
